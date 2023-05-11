@@ -1,5 +1,9 @@
 header{
-    background-color: white;
+    background-color: rgb(220, 242, 247);
 }
 
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
 
+}
